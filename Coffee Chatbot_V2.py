@@ -1,2 +1,1 @@
-print('Hello')
-print("desktop")
+var = 1 
