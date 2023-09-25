@@ -9,4 +9,4 @@ if __name__ == "__main__":
 
 
 
-## Desktop changes 2
+## Mac changes 2
