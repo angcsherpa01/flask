@@ -7,8 +7,4 @@ if __name__ == "__main__":
 
 print("hello")
 
-#desktop
 
-#vybhnjk
-
-#sdfigojdfoigj
